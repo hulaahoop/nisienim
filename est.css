@@ -1,0 +1,2 @@
+console.log(path.context());
+// Output: { foo: 'bar', baz: 'qux' }
